@@ -1,10 +1,10 @@
-# AI Engineer Roadmap 2024
+# Roadmap to Becoming an AI Engineer in 2024
 
-## What Does An AI Engineer Do? [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=y8qRq9PMCh8)
+## The Role and Responsibilities of an AI Engineer [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=y8qRq9PMCh8)
 
-## AI Engineer Job Description [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.linkedin.com/jobs/view/3860957225/)
+## AI Engineer: Job Description and Key Responsibilities [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.linkedin.com/jobs/view/3860957225/)
 
-## 1. Python Programming Language -1 Month
+## 1. Mastering Python Programming in One Month
 #### Python:
 ![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/20041231/211717885-0b1e049b-f5b3-457d-ba7a-9345ec3aa39c.png)
 
@@ -12,15 +12,7 @@
 
 2. Complete Python Playlist In Hindi:   [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v)
 
-3. Flask Playlist:    [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
-
-### Final Goal Outcome:
-1. Basic To Intermediate Python With various knowledge of various Data structures like numpy,pandas,matplotlib and many more.
-2. Knowledge of performing EDA,Feature Engineering and creating visualization charts using python 
-3. Atleast Make some python projects using Frameworks such as Flask with deployment Eg: Web Scrapping Projects  
-
-### What's New In Python 3.12.0
-https://docs.python.org/release/3.12.0/
+3. Flask Playlist:    [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc) 
 
 ## 2. Statistics
 ![image](https://github.com/krishnaik06/AI-Engineer-Roadmap-2024/assets/20041231/c28b56d7-30f0-48ae-8fec-d2fb3a690836)
